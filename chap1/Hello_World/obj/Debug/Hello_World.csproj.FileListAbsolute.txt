@@ -1,0 +1,13 @@
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.dll
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.dll.mdb
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.Hello_World.apk
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.Hello_World-Signed.apk
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\Hello_World.dll
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\android\bin\Hello_World.Hello_World.apk
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\res\layout\main.xml
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\res\values\strings.xml
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\res\drawable\icon.png
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\R.cs.flag
+C:\Users\SKUD\Documents\Projects\Hello_World\Hello_World\obj\Debug\uploadflags.txt

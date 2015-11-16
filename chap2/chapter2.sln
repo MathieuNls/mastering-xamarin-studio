@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter2", "chapter2\chapter2.csproj", "{5A160AE1-6D05-456C-967F-2B13FF30B2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter2.UITests", "chapter2.UITests\chapter2.UITests.csproj", "{153CF44F-7E34-48EC-BA38-A150A8AB1387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153CF44F-7E34-48EC-BA38-A150A8AB1387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153CF44F-7E34-48EC-BA38-A150A8AB1387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153CF44F-7E34-48EC-BA38-A150A8AB1387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153CF44F-7E34-48EC-BA38-A150A8AB1387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A160AE1-6D05-456C-967F-2B13FF30B2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A160AE1-6D05-456C-967F-2B13FF30B2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A160AE1-6D05-456C-967F-2B13FF30B2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A160AE1-6D05-456C-967F-2B13FF30B2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
